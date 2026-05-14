@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Bot",
-    "password": "",
+    "username": "Unknown",
+    "password": "Soloplayz",
     "type": "offline"
   },
   "server": {
-    "ip": "Lynmc.aternos.me",
-    "port": 19390,
+    "ip": "Lynnetwork.play.hosting",
+    "port": 39507,
     "version": "1.20.1",
     "try-creative": false
   },
